@@ -2,7 +2,7 @@ import cv2
 import os
 
 # Set up the video path and output folder
-video_path = "hardecore.mp4"
+video_path = "video.mp4"
 output_folder = "screenshots"
 
 # Create the output folder if it doesn't exist
